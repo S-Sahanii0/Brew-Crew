@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">234085581179-f7empev4kprg8glapa0odi65kf640hc5.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">234085581179</string>
+    <string name="google_api_key" translatable="false">AIzaSyBP-VI6EnReV-bEzi8Bz4LjVe3QwReWE1A</string>
+    <string name="google_app_id" translatable="false">1:234085581179:android:5587faeb390c26d7ae3dde</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBP-VI6EnReV-bEzi8Bz4LjVe3QwReWE1A</string>
+    <string name="google_storage_bucket" translatable="false">brew-crew-37c12.appspot.com</string>
+    <string name="project_id" translatable="false">brew-crew-37c12</string>
+</resources>

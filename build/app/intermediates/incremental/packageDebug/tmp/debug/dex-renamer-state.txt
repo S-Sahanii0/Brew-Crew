@@ -1,0 +1,7 @@
+#Fri Jun 11 17:50:33 NPT 2021
+base.0=C\:\\Users\\acer\\AndroidStudioProjects\\brew_crew\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=C\:\\Users\\acer\\AndroidStudioProjects\\brew_crew\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
