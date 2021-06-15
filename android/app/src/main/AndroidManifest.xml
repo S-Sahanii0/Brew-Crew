@@ -2,6 +2,8 @@
     package="com.practice.brew_crew">
    <application
         android:label="brew_crew"
+       android:requestLegacyExternalStorage="true"
+       android:usesCleartextTraffic="true"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
